@@ -1,4 +1,4 @@
-#Test para usar git y github
+# Test para usar git y github
 
 En este proyecto sólo estamos haciendo unas pruebas para usar git como sistema de control de versiones.
 
